@@ -1,6 +1,6 @@
-##BIT2019-DataMiningHomework
+## BIT2019-DataMiningHomework
 
-###2019年春季学期研一下数据挖掘课程作业项目
+### 2019年春季学期研一下数据挖掘课程作业项目
 
 Created by 白雪峰 3120180977
 
