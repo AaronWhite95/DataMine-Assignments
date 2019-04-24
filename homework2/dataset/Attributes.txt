@@ -1,0 +1,8 @@
+Agency
+Location
+Area Id
+Beat
+Priority
+Incident Type Id
+Incident Type Description
+Event Number
